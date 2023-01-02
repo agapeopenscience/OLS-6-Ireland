@@ -120,7 +120,9 @@ You can use this reposiory create for creating similar community project reposit
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Code of Conduct
 
+Please note that this project is released with a [Contributor Code of Conduct](https://pkgs.rstudio.com/bookdown/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
 
 <!-- ROADMAP -->
 ## Roadmap
