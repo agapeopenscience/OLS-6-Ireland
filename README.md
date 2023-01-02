@@ -13,11 +13,9 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
 [![Agape Blog][blog-shield]][blog-url]
 [![Agape Course][course-shield]][course-url]
-
-
+[![License][license-shield]][license-url]
 
 
 <!-- PROJECT LOGO -->
