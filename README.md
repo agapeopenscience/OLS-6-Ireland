@@ -61,7 +61,8 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contributing">Contributing</a></li>			
+    <li><a href="#Commmunity guidelines">Commmunity guidelines</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -93,7 +94,8 @@ Please see below the major frameworks/libraries used to bootstrap the Agape proj
 * [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 * [![made-with-R-Bookdown](https://img.shields.io/badge/Made%20with-R%20bookdown-lightgrey)](https://github.com/agapeopenscience/OLS-6-Ireland/)
 * [![made-with-R-Blogdown](https://img.shields.io/badge/Made%20with-R%20blogdown%20-orange)](https://github.com/sa1987/OpenDoorProject)
-You can  [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Naereen/badges)
+* [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+* [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,6 +164,12 @@ If you would like to become a member or contributor of agape initiatives, please
 ### List of Agape initiatives
 <a href="www.agapeopenscience.com"><strong>Agape open science introductory course</strong></a>
   <a href="https://agape-openscience-blog.netlify.app"><strong>Agape blog »</strong></a>
+  
+<!-- Commmunity guidelines -->
+## Commmunity guidelines (Work in progress)
+To know more about our community guidelines, please refer to the following links
+
+<Insert the links for the Code of conduct and  >
 
 <!-- LICENSE -->
 ## License
