@@ -148,7 +148,6 @@ See the [open issues](https://github.com/agapeopenscience/OLS-6-Ireland/issues) 
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-Don't forget to give the project a star! Thanks again!
 You can contribute in many ways: 
 
 * By opening issues to give feedback and share ideas.
@@ -156,6 +155,7 @@ You can contribute in many ways:
 * By submitting Pull Request (PR) to fix some opened issues
 * If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". (It is considered good practice to open issues before to discuss ideas)
 
+Don't forget to give the project a star! Thanks again!
 
 ## To submit a contribution using a Pull Request:
 
