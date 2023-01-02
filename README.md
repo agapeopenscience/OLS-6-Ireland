@@ -146,7 +146,7 @@ See the [open issues](https://github.com/agapeopenscience/OLS-6-Ireland/issues) 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open science community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 You can contribute in many ways: 
 
@@ -157,7 +157,7 @@ You can contribute in many ways:
 
 Don't forget to give the project a star! Thanks again!
 
-## To submit a contribution using a Pull Request:
+#### To submit a contribution using a Pull Request:
 
 1.  [Fork](https://github.com/rstudio/bookdown/fork) the repository and make your changes in a new branch specific to the PR. It is ok to edit a file in this repository using the `Edit` button on Github if the change is simple enough.
 
@@ -171,7 +171,7 @@ We'll try to be as responsive as possible in reviewing and accepting pull reques
 
 If you would like to become a member or contributor of agape initiatives, please refer to the README.md of the respective initiative's home pages.
 
-### List of Agape initiatives
+### List of Agape initiatives to join
 <a href="www.agapeopenscience.com"><strong>Agape open science introductory course</strong></a>
   <a href="https://agape-openscience-blog.netlify.app"><strong>Agape blog »</strong></a>
   
