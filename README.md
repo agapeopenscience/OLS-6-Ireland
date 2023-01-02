@@ -191,7 +191,9 @@ linkedIn [Agape Open Science](https://www.linkedin.com/company/agape-open-scienc
 
 ### Members
 Aswathi S - [User profile](https://osf.io/t5vem/)
+
 Cassandra Murphy - [User profile](https://orcid.org/0000-0003-1332-359X)
+
 Nina Trubanová - [User profile](https://orcid.org/0000-0001-8156-3304)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
