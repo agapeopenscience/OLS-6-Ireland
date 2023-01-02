@@ -163,7 +163,7 @@ Don't forget to give the project a star! Thanks again!
 
 <!--- 2. For significant changes (e.g not required for fixing typos), ensure that you have signed the [individual](https://www.rstudio.com/wp-content/uploads/2014/06/rstudioindividualcontributoragreement.pdf) or [corporate](https://www.rstudio.com/wp-content/uploads/2014/06/rstudiocorporatecontributoragreement.pdf) contributor agreement as appropriate. You can send the signed copy to <contribute@rstudio.com>. --->
 
-2..  Submit the [pull request](https://help.github.com/articles/using-pull-requests). It is ok to submit as draft if you are still working on it but would like some feedback from us. It always good to share in the open that you are working on it.
+2.  Submit the [pull request](https://help.github.com/articles/using-pull-requests). It is ok to submit as draft if you are still working on it but would like some feedback from us. It always good to share in the open that you are working on it.
 
 We'll try to be as responsive as possible in reviewing and accepting pull requests. Appreciate your contributions very much!
 
@@ -173,7 +173,8 @@ If you would like to become a member or contributor of agape initiatives, please
 
 ### List of Agape initiatives to join
 <a href="www.agapeopenscience.com"><strong>Agape open science introductory course</strong></a>
-  <a href="https://agape-openscience-blog.netlify.app"><strong>Agape blog »</strong></a>
+
+<a href="https://agape-openscience-blog.netlify.app"><strong>Agape blog »</strong></a>
   
 <!-- Commmunity guidelines -->
 ## Commmunity guidelines (Work in progress)
