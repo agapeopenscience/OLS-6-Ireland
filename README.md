@@ -80,7 +80,7 @@ Under the Agape initiative, we aim to get early career researchers in Ireland in
 
 Under Agape we aim to disseminate open science between PhD students and early career researchers across Ireland and later internationally. We want to create an open science practising community where we can learn, exchange our opinions and experiences, and together change the future. In the way that science is undertaken, made freely available, and communicated in a FAIR and transparent way.
 
-Start the learning by checking out our <a href="https://agape-openscience-blog.netlify.app"><strong> agape blog »</strong></a>
+Start the learning by checking out our <a href="https://agape-openscience-blog.netlify.app"><strong> Agape blog »</strong></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
