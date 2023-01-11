@@ -196,7 +196,7 @@ Distributed under the CC-BY-NC license. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 ### Project
-Should you experience any technical problems or should you wish to share your ideas on how to improve this course email us on [[agape.open.science\@gmail.com](mailto:agape.open.science@gmail.com)]{style="color:#1155CC;text-decoration:none;"}.
+Should you experience any technical problems or should you wish to share your ideas on how to improve this course email us on [[agape.open.science\@gmail.com](mailto:agape.open.science@gmail.com)].
 
 To share your thoughts and experiences either with this course or on open science in general, or to see what's new we will be delighted if you start following us on
 
