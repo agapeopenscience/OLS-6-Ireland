@@ -25,7 +25,7 @@
     <img src="img/agapecover.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h4 align="center">AGAPE github repo</h4>
+  <h4 align="center">AGAPE GitHub repo</h4>
   <p align="center">
     AGAPE - Building an open science practising community in Ireland!
     <br />
