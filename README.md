@@ -32,7 +32,7 @@
     	<a href="www.agapeopenscience.com">View the Agape open science introductory course</a>
     <br />
     <br />
-    <a href="https://agape-openscience-blog.netlify.app"><strong>Explore the blog »</strong></a>
+    <a href="https://agape-openscience-blog.netlify.app"><strong>Explore the blog</strong></a>
 	·
     <a href="https://github.com/agapeopenscience/OLS-6-Ireland/issues">Report Bug</a>
     ·
@@ -72,7 +72,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About the project
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
@@ -86,9 +86,9 @@ Start the learning by checking out our <a href="https://agape-openscience-blog.n
 
 
 
-### Built With
+### Built with
 
-Please see below the major frameworks/libraries used to bootstrap the Agape project
+Please see below the major frameworks/libraries used to bootstrap the Agape project.
 
 * [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 * [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
@@ -102,16 +102,16 @@ Please see below the major frameworks/libraries used to bootstrap the Agape proj
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting started
 
-This is the official github repository of the Agape open scneince community created as a part of the <a href="https://openlifesci.org/ols-6"><strong> OLS 6 mentorship »</strong></a> programme.
+This is the official GitHub repository of the Agape open scneince community created as a part of the <a href="https://openlifesci.org/ols-6"><strong> OLS 6 mentorship</strong></a> programme.
 
 ### Prerequisites
 
 There are no pre-requisites.
 ### Installation
 
-No installation is involved with the repository. However, the customisation steps for the [Agape course](https://github.com/sa1987/OpenDoorProject) and [blog](https://github.com/sa1987/agape-openscience-blog) will be available in the respective repository.
+No installation is involved with the repository. However, the customisation steps for the [Agape online course](https://github.com/sa1987/OpenDoorProject) and [blog](https://github.com/sa1987/agape-openscience-blog) will be available in the respective repository.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -120,7 +120,7 @@ You can use this reposiory create for creating similar community project reposit
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Code of Conduct
+## Code of conduct
 
 Please note that this project is released with a [Contributor Code of Conduct](https://pkgs.rstudio.com/bookdown/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
 
@@ -128,12 +128,12 @@ Please note that this project is released with a [Contributor Code of Conduct](h
 ## Roadmap
 
 - [x] Create the community repository
-- [x] Create the Roadmap
+- [x] Create the roadmap
 - [x] Create the vision statement
-- [x] Create the Code of conduct
-- [x] Create the Contributor guidelines
+- [x] Create the code of conduct
+- [x] Create the contributor guidelines
 - [x] Create the README file
-- [ ] Add Additional Templates w/ Examples
+- [ ] Add additional templates w/ examples
 - [ ] Update the repository with the future plans
 - [ ] Agape project details
     - [ ] Agape blog
@@ -153,17 +153,17 @@ Contributions are what make the open science community such an amazing place to 
 You can contribute in many ways: 
 
 * By opening issues to give feedback and share ideas.
-* By fixing typos in documentations
-* By submitting Pull Request (PR) to fix some opened issues
-* If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". (It is considered good practice to open issues before to discuss ideas)
+* By fixing typos in documentations.
+* By submitting Pull Request (PR) to fix some opened issues.
+* If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". (It is considered good practice to open issues before to discuss ideas).
 
 Don't forget to give the project a star! Thanks again!
 
-#### To submit a contribution using a Pull Request:
+#### To submit a contribution using a pull request:
 
-1.  [Fork](https://github.com/agapeopenscience/OLS-6-Ireland/fork) the repository and make your changes in a new branch specific to the PR. It is ok to edit a file in this repository using the `Edit` button on Github if the change is simple enough.
+1.  [Fork](https://github.com/agapeopenscience/OLS-6-Ireland/fork) the repository and make your changes in a new branch specific to the PR. It is ok to edit a file in this repository using the `Edit` button on GitHub if the change is simple enough.
 
-<!--- 2. For significant changes (e.g not required for fixing typos), ensure that you have signed the [individual](https://www.rstudio.com/wp-content/uploads/2014/06/rstudioindividualcontributoragreement.pdf) or [corporate](https://www.rstudio.com/wp-content/uploads/2014/06/rstudiocorporatecontributoragreement.pdf) contributor agreement as appropriate. You can send the signed copy to <contribute@rstudio.com>. --->
+<!--- 2. For significant changes (e.g.: not required for fixing typos), ensure that you have signed the [individual](https://www.rstudio.com/wp-content/uploads/2014/06/rstudioindividualcontributoragreement.pdf) or [corporate](https://www.rstudio.com/wp-content/uploads/2014/06/rstudiocorporatecontributoragreement.pdf) contributor agreement as appropriate. You can send the signed copy to <contribute@rstudio.com>. --->
 
 2.  Submit the [pull request](https://help.github.com/articles/using-pull-requests). It is ok to submit as draft if you are still working on it but would like some feedback from us. It always good to share in the open that you are working on it.
 
@@ -171,7 +171,7 @@ We'll try to be as responsive as possible in reviewing and accepting pull reques
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-If you would like to become a member or contributor of agape initiatives, please refer to the README.md of the respective initiative's home pages.
+If you would like to become a member or contributor of any of the Agape initiatives, please refer to the README.md of the respective initiative's homepage.
 
 ### List of Agape initiatives to join
 <a href="www.agapeopenscience.com"><strong>Agape open science introductory course</strong></a>
@@ -179,7 +179,8 @@ If you would like to become a member or contributor of agape initiatives, please
 <a href="https://agape-openscience-blog.netlify.app"><strong>Agape blog »</strong></a>
   
 <!-- Commmunity guidelines -->
-## Commmunity guidelines (Work in progress)
+
+## Commmunity guidelines (work in progress)
 To know more about our community guidelines, please refer to the following links
 
 <Insert the links for the Code of conduct and  >
@@ -209,11 +210,11 @@ Instagram [Agape.Open.Science](https://www.instagram.com/Agape.Open.Science)
 linkedIn [Agape Open Science](https://www.linkedin.com/company/agape-open-science/)
 
 ### Members
-Aswathi S - [User profile](https://osf.io/t5vem/)
+Aswathi S - [user profile](https://osf.io/t5vem/)
 
-Cassandra Murphy - [User profile](https://orcid.org/0000-0003-1332-359X)
+Cassandra Murphy - [user profile](https://orcid.org/0000-0003-1332-359X)
 
-Nina Trubanová - [User profile](https://orcid.org/0000-0001-8156-3304)
+Nina Trubanová - [user profile](https://orcid.org/0000-0001-8156-3304)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
